@@ -86,5 +86,5 @@ Project NUCLEO-UART-CONTROL-LED is distributed under the MIT lisense.
 
 ### 1. Clone the Repository  
 ```bash  
-git clone https://github.com/yourusername/uart-led-control.git  
-cd uart-led-control  
+git clone https://github.com/job-space/NUCLEO-UART-CONTROL-LED.git 
+cd NUCLEO-UART-CONTROL-LED
